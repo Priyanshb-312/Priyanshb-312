@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Priyansh Bansal
 
-<!--
-**Priyanshb-312/Priyanshb-312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a 3rd year B.Tech student in Computer Science Engineering (Specialization in AI & ML)  
+💻 Currently learning and exploring Artificial Intelligence and Machine Learning  
+🌱 Passionate about building intelligent systems and solving real-world problems  
+📚 Continuously improving my skills in programming and data-driven technologies  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Interests
+- Artificial Intelligence & Machine Learning (Beginner)
+- Python Programming
+- Data Structures & Algorithms (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: priyanshb312@gmail.com
+
+## ⚡ Fun Fact
+I enjoy solving logical and mathematical problems and exploring new technologies!
